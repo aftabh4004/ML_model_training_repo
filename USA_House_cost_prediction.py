@@ -36,7 +36,7 @@ model.fit(X_train , y_train)
 
 
 
-joblib.dump(model ,'/Code/USA_Housing_model.pk1')
+joblib.dump(model ,'/Model/USA_Housing_model.pk1')
 
 
 
